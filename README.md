@@ -47,13 +47,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Devyani1430&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani1430&layout=compact" />
-</p>
----
-
 ## 📫 Connect With Me
 - 🌐 Portfolio: _add link here_  
 - ✉️ Email: devyani2533@gmail.com
