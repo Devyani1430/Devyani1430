@@ -1,47 +1,63 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="center">Hi, I'm Devyani 👋</h2>
+
+<p align="center">
+☁️Cloud | ☁️AWS | 🔧DevOps | 🌐Frontend Developer | 🎨UI/UX Designer
+</p>
 
 ###
 
-<br clear="both">
+---
 
-<p align="left">My name is Devyani .. I am front end Developer From India</p>
+## 🔧 About Me 
+- ☁️ I work with AWS services like **VPC, EC2, IAM, S3, RDS, ELB, Lambda, CloudWatch, Route 53, EBS, EFS**, and more  
+- 🌐 I have a solid understanding of **networking basics**  
+- 🚀 Currently learning **DevOps**, CI/CD, and automation
+- 💻 I build responsive and user-friendly frontends  
+- 🎨 I design clean and modern UI/UX in **Figma** 
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🛠️ Tech Stack
 
-###
+### ☁️ Cloud
+- AWS (VPC, EC2, IAM, S3, RDS, Route 53, ELB, Lambda, CloudWatch, etc.)
 
-<br clear="both">
+### 🎨 Frontend
+- HTML • CSS • JavaScript  
+- Responsive Web Design  
+- Figma (UI/UX Design)
 
-<p align="left">✨ Creating bugs and Designs<br>📚 I'm currently learning Web development and Data Science<br>🎲 Fun fact:  I am Ai and Data Science engineer</p>
+### 🧰 Learning
+- DevOps • GitHub Actions • CI/CD • Docker • Linux
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🎯 Current Focus
+- ✨ Improving frontend skills  
+- ☁️ Expanding AWS Cloud knowledge  
+- 🔧 Building hands-on DevOps projects  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+## 📌 Featured Projects
+- 🏗️ **AWS VPC 3-Tier Architecture** – Deployed a multi-tier cloud setup  
+- 🤖 **AI Chatbot Generator (SaaS)** – Custom AI chatbots for businesses  
+- 💻 **Frontend UI Projects** – Smooth animations using GSAP & Locomotive  
+- 🎨 **Figma UI Designs** – Clean web layouts and prototypes  
 
-###
+---
 
-<p align="left">Hello World!!</p>
+## 📈 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Devyani1430&show_icons=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani1430&layout=compact" />
+</p>
+---
 
+## 📫 Connect With Me
+- 🌐 Portfolio: _add link here_  
+- ✉️ Email: devyani2533@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/devyani-shingnapurkar-669514288/
+- ✍️ Medium : https://medium.com/@devyani2533
 
-<div align="left">
-</div>
-
-<h2 align="left">Connect with me</h2>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
+⭐ Thanks for visiting my profile!
