@@ -27,12 +27,20 @@
 - Responsive Web Design  
 - Figma (UI/UX Design)
 
+### 🧰 Infrastructure as a Code
+- Terraform
+- Ansible
+
+### 🧰 OS
+- Linux
+  
 ### 🧰 Devops
 - Docker 🐳
 - Kubernetes ☸️
+- GIT n GitHub
 
 ### 🧰 Learning
-- DevOps • GitHub Actions • CI/CD • Docker • Linux
+- DevOps • GitHub Actions • CI/CD 
 
 ---
 
