@@ -27,6 +27,10 @@
 - Responsive Web Design  
 - Figma (UI/UX Design)
 
+### 🧰 Devops
+- Docker 🐳
+- Kubernetes ☸️
+
 ### 🧰 Learning
 - DevOps • GitHub Actions • CI/CD • Docker • Linux
 
