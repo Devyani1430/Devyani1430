@@ -37,7 +37,7 @@
 ### 🧰 Devops
 - Docker 🐳
 - Kubernetes ☸️
-- GIT n GitHub
+- GIT, Github, Gitlab
 
 ### 🧰 Learning
 - DevOps • GitHub Actions • CI/CD 
